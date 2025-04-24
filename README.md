@@ -75,3 +75,5 @@ cd PacManJava
 ## Dependencies
 * Java Swing: Built-in GUI library.
 * No external libraries required.
+
+![alt text](https://github.com/Nurkamila/PacManJava/blob/master/GAME.png?raw=true))
