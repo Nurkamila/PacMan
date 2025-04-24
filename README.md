@@ -29,6 +29,7 @@ A classic Pac-Man game built using Java Swing, featuring:
 **Controls**
 * **Arrow Keys:** Change Pac-Man's direction.
 * **Auto-Respawn:** Game restarts automatically after game over.
+  
 **Ghost Behavior**
 * Ghosts move randomly but reverse direction on wall collisions.
 * Special case: Ghosts at row 9 (center tunnel) always move upward.
