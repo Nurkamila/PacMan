@@ -76,4 +76,5 @@ cd PacManJava
 * Java Swing: Built-in GUI library.
 * No external libraries required.
 
+## How the game looks like:
 ![alt text](https://github.com/Nurkamila/PacManJava/blob/master/GAME.png?raw=true))
